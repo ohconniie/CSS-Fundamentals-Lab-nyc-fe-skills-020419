@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+#featured-property {
+  font-size: 10px;
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  font-size: 16px;
+  margin: auto;
+}
+
+nav a[href] {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: pink;
+}
+
+nav {
+    text-align: center;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background: pink;
+  font-family: 'Arial';
+}
